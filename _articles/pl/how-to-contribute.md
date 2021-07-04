@@ -216,7 +216,7 @@ Wreszcie, projekty open source wykorzystują następujące narzędzia do organiz
 
 Teraz, gdy już zorientowałeś się, jak działają projekty typu open source, nadszedł czas, aby znaleźć projekt, do którego możesz się przyczynić!
 
-Jeśli nigdy wcześniej nie uczestniczyłeś w tworzeniu oprogramowania typu open source, skorzystaj z porady Prezydenta Stanów Zjednoczonych Johna F. Kennedy'ego, który powiedział kiedyś, _"Ask not what your country can do for you - ask what you can do for your country."_
+Jeśli nigdy wcześniej nie uczestniczyłeś w tworzeniu oprogramowania typu open source, skorzystaj z porady Prezydenta Stanów Zjednoczonych Johna F. Kennedy'ego, który powiedział kiedyś, _"Ask not what your country can do for you - ask what you can do for your country."_ (tłum. _"Nie pytaj, co twój kraj może dla ciebie zrobić - zapytaj, co ty możesz zrobić dla swojego kraju."_)
 
 Wkład w open source ma miejsce na wszystkich poziomach, w różnych projektach. Nie musisz zastanawiać się, jaki dokładnie będzie twój pierwszy wkład ani jak będzie wyglądał.
 
