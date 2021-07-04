@@ -171,9 +171,11 @@ Nie ma jednodniowego rozwiązania dla budowania widowni. Zdobycie zaufania i sza
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
-  </i>
+
+  PhantomJS został wydany po raz pierwszy na początku 2011 roku. (...) rozpowszechniałem informacje w zwykły sposób: tweetowałem o tym, pisałem posty na blogu o tym, co można z nim zrobić, wspominałem o tym podczas różnych dyskusji na spotkaniach. Kiedy stał się bardziej znany w 2014 roku, zacząłem wygłaszać na ten temat prezentacje.
+
+  _PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it._
+
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
   </p>
