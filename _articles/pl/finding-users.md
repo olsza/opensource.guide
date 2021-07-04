@@ -47,9 +47,11 @@ Jeśli nie chcesz jeszcze zakładać punktów sprzedaży dla swojego projektu, p
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
-  </i>
+
+  Błędem, który popełniłem w tamtych czasach (…) nie było założenie konta na Twitterze dla projektu. Twitter to świetny sposób na informowanie ludzi na bieżąco i utrzymywanie ich przez cały czas w kontakcie z projektem.
+
+  _A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project._
+
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
