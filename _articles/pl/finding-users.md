@@ -121,9 +121,11 @@ Pisząc swoje przemówienie, skup się na tym, co zainteresuje twoją publiczno�
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
-  <i>
-  When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
-  </i>
+
+  Kiedy zaczynasz pisać swoje przemówienie, bez względu na temat, może pomóc, jeśli postrzegasz swoją przemowę jako historię, którą opowiadasz ludziom.
+
+  _When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people._
+
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
