@@ -440,9 +440,9 @@ Zanim otworzysz issue, pull request lub zadasz pytanie na czacie, pamiętaj o ty
 
 **Trzymaj całą komunikację publiczną.** Chociaż jest to kuszące, nie kontaktuj się prywatnie z opiekunami, chyba że musisz udostępniać poufne informacje (takie jak problem z bezpieczeństwem lub poważne naruszenie zasad postępowania). Gdy udostępnisz rozmowę publicznie, więcej osób może się uczyć i korzystać z wymiany. Dyskusje mogą być same w sobie wkładem.
 
-> 😇 _(as a comment) "@-maintainer Hi there! How should we proceed on this PR?"_
+> 😇 _(jako komentarz) "@-maintainer Cześć! Jak powinniśmy postępować z tym PR?"_
 >
-> 😢 _(as an email) "Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"_
+> 😢 _(jako e-mail) „Hej, przepraszam, że przeszkadzam Ci e-mailem, ale zastanawiałem się, czy miałeś okazję sprawdzić mój PR"_
 
 **Można zadawać pytania (ale bądź cierpliwy!).** W pewnym momencie wszyscy byli nowi w projekcie, a nawet doświadczeni współpracownicy muszą przyspieszyć, gdy patrzą na nowy projekt. Z tego samego powodu, nawet wieloletni opiekunowie nie zawsze znają każdą część projektu. Pokaż im tę samą cierpliwość, którą chciałbyś, aby ci pokazali.
 
