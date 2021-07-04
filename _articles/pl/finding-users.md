@@ -31,7 +31,9 @@ Aby głębiej zagłębić się w wiadomości, sprawdź Mozilli ["Personas and Pa
 ## Pomóż ludziom znaleźć i śledzić Twój projekt
 
 <aside markdown="1" class="pquote">
-  You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+  Potrzebujesz idealny jeden „domowy” adres URL, który możesz promować i wskazywać ludziom w związku z Twoim projektem. Nie musisz rzucać się w oczy na wymyślny szablon ani nawet nazwę domeny, ale Twój projekt potrzebuje punktu centralnego.
+
+  _You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point._
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
