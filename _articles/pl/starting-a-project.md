@@ -26,9 +26,11 @@ _Wolne oprogramowanie_ odnosi się do tego samego zestawu projektów, co _otwart
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
-  </i>
+
+  Jedno z najbardziej satysfakcjonujących doświadczeń, jakie czerpię z używania i współpracy przy Open Source, pochodzi z relacji, które buduję z innymi programistami borykającymi się z wieloma podobnymi do mnie problemami.
+
+  _One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am._
+
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
