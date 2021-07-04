@@ -206,9 +206,11 @@ Link do pliku CONTRIBUTING  z README, dzięki czemu więcej osób go zobaczy. Je
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
-  </i>
+
+Wszyscy mieliśmy doświadczenia, w których stawiliśmy czoła temu, co prawdopodobnie było nadużyciem, jako opiekun próbujący wyjaśnić, dlaczego coś musiało być w określony sposób, lub jako użytkownik... zadając proste pytanie. (...) Kodeks postępowania staje się dokumentem, do którego łatwo się odwoływać i można go powiązać, wskazując, że Twój zespół bardzo poważnie traktuje konstruktywny dyskurs.
+
+  _We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously._
+
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
