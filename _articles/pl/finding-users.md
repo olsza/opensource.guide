@@ -75,9 +75,11 @@ Skorzystaj z istniejących społeczności i platform internetowych, aby dotrzeć
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
-  </i>
+
+Każdy program ma bardzo specyficzne funkcje, które przydadzą się tylko niewielkiej części użytkowników. Nie spamuj jak największej liczby osób. Zamiast tego kieruj swoje wysiłki do społeczności, które skorzystają na wiedzy o Twoim projekcie.
+
+  _Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project._
+
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
