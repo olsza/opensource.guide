@@ -422,9 +422,9 @@ Zanim otworzysz issue, pull request lub zadasz pytanie na czacie, pamiętaj o ty
 
 **Podaj kontekst.** Pomóż innym szybko przyśpieszyć. Jeśli napotkasz błąd, wyjaśnij, co próbujesz zrobić i jak go odtworzyć. Jeśli sugerujesz nowy pomysł, wyjaśnij, dlaczego uważasz, że byłby przydatny dla projektu (nie tylko dla ciebie!).
 
-> 😇 _"X doesn't happen when I do Y"_
+> 😇 _"X nie działa, kiedy ja robię Y"_
 >
-> 😢 _"X is broken! Please fix it."_
+> 😢 _"X jest zepsuty! Proszę napraw to."_
 
 **Zrób swoją pracę domową wcześniej.** Nie można nic wiedzieć, ale pokazać, że próbowałeś. Zanim poprosisz o pomoc, koniecznie sprawdź README projektu, dokumentację, problemy (otwarte lub zamknięte), listę mailingową i wyszukaj w Internecie odpowiedź. Ludzie docenią, gdy pokażesz, że próbujesz się uczyć.
 
