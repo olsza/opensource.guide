@@ -392,7 +392,9 @@ Projekt przyjazny i gościnny sygnalizuje, że będą otwarci na nowych autorów
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+  Za każdym razem, gdy zobaczysz długi post w dyskusji, sprawdź odpowiedzi od głównych programistów, którzy późno włączają się do dyskusji. Czy podsumowujesz konstruktywnie i podejmujesz kroki, aby doprowadzić dyskusję do decyzji, pozostając uprzejmym? Jeśli widzisz, że toczy się wiele Wojen, oznacza to, że energia jest marnowana na walkę, a nie na rozwój.
+
+  _Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development._
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
