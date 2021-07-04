@@ -446,9 +446,9 @@ Zanim otworzysz issue, pull request lub zadasz pytanie na czacie, pamiętaj o ty
 
 **Można zadawać pytania (ale bądź cierpliwy!).** W pewnym momencie wszyscy byli nowi w projekcie, a nawet doświadczeni współpracownicy muszą przyspieszyć, gdy patrzą na nowy projekt. Z tego samego powodu, nawet wieloletni opiekunowie nie zawsze znają każdą część projektu. Pokaż im tę samą cierpliwość, którą chciałbyś, aby ci pokazali.
 
-> 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
+> 😇 _"Dzięki za zapoznanie się z tym błędem. Postępowałem zgodnie z twoimi sugestiami. Oto wynik."_
 >
-> 😢 _"Why can't you fix my problem? Isn't this your project?"_
+> 😢 _"Dlaczego nie możesz rozwiązać mojego problemu? Czy to nie jest twój projekt?"_
 
 **Szanuj decyzje społeczności.** Twoje pomysły mogą różnić się od priorytetów lub wizji społeczności. Mogą oferować informacje zwrotne lub zdecydować o nie realizowaniu Twojego pomysłu. Podczas gdy powinieneś dyskutować i szukać kompromisu, opiekunowie muszą żyć z twoją decyzją dłużej niż ty. Jeśli nie zgadzasz się z ich kierunkiem, zawsze możesz pracować nad własnym widelcem lub rozpocząć własny projekt.
 
