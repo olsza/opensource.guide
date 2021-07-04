@@ -67,9 +67,11 @@ Powszechnym błędnym przekonaniem na temat przyczyniania się do open source je
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
-  </i>
+
+  Byłem znany ze swojej pracy nad CocoaPods, ale większość ludzi nie wie, że tak naprawdę nie wykonuję żadnej prawdziwej pracy nad samym narzędziem CocoaPods. Mój czas nad projektem spędzam głównie na robieniu dokumentacji i pracy nad brandingiem.
+
+  _I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding._
+
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
