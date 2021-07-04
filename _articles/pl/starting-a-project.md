@@ -94,9 +94,11 @@ Jeśli potrzebujesz specjalnego budżetu lub personelu na promocję, operacje i 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
-  </i>
+
+Kiedy zaczynasz otwierać projekt, ważne jest, aby upewnić się, że twoje procesy zarządzania uwzględniają wkład i możliwości społeczności wokół twojego projektu. Nie bój się angażować w kluczowe aspekty projektu współpracowników, którzy nie są zatrudnieni w Twojej firmie - zwłaszcza jeśli są oni częstymi współpracownikami.
+
+  _As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors._
+
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
