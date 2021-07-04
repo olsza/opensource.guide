@@ -156,9 +156,11 @@ Możesz użyć swojego README, aby odpowiedzieć na inne pytania, takie jak spos
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
-  </i>
+
+  Lepsza dokumentacja oznacza więcej użytkowników, mniej próśb o pomoc i więcej współtwórców. (...) Pamiętaj, że twoi czytelnicy to nie ty. Są ludzie, którzy mogą przyjść na projekt, ale mają zupełnie inne doświadczenia.
+
+  _Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences._
+
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
