@@ -105,9 +105,11 @@ Jeśli jesteś [nowy w wystąpieniach publicznych](https://speaking.io/), zaczni
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
-  </i>
+
+  Byłem dość zdenerwowany pójściem na PyCon. Wygłaszałem wykład, poznałem tam tylko kilka osób, jechałem na cały tydzień. (...) Nie powinienem się jednak martwić. PyCon był fenomenalnie niesamowity! (...) Wszyscy byli niesamowicie przyjaźni i otwarci, tak bardzo, że rzadko znajdowałem czas, aby nie rozmawiać z ludźmi!
+
+  _I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!_
+
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
