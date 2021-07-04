@@ -74,9 +74,11 @@ Jeśli Twoim jedynym celem jest pochwalenie się swoją pracą, możesz nawet ni
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
-  </i>
+
+  W pewnym momencie stworzyłem niestandardowy UIAlertView, którego używałem... i postanowiłem uczynić go open source. Zmodyfikowałem go więc, aby był bardziej dynamiczny i wrzuciłem na GitHub. Napisałem również swoją pierwszą dokumentację wyjaśniającą innym programistom, jak używać go w swoich projektach. Prawdopodobnie nikt nigdy go nie używał, ponieważ był to prosty projekt, ale czułem się dobrze z moim wkładem.
+
+  _At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution._
+
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
