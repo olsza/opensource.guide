@@ -81,9 +81,11 @@ Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na za
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
-  </i>
+
+  Po raz pierwszy skontaktowałem się z zespołem programistów Python (python-dev), kiedy w dniu 17 czerwca 2002 r. wysłałem e-mail na listę dyskusyjną w sprawie zaakceptowania mojej poprawki. Szybko wykryłem błąd w otwartym kodzie źródłowym i postanowiłem przygotować dla grupy e-maile z podsumowaniem. Dali mi świetny pretekst, by poprosić o wyjaśnienie na dany temat, ale jeszcze ważniejsza była możliwość, aby szybko dowiedzieć się, kiedy ktoś zwrócił uwagę na potrzebę naprawy.
+
+  _I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing._
+
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
   </p>
