@@ -155,9 +155,11 @@ Pomaganie nowicjuszom, dzielenie się zasobami i merytoryczny wkład w projekty 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
-  </i>
+
+  Jedynym powodem, dla którego urllib3 jest obecnie najpopularniejszą biblioteką Pythona innej firmy, jest to, że jest częścią żądań ściągnięcia.
+
+  _The only reason urllib3 is the most popular third-party Python library today is because it's part of requests._
+
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
