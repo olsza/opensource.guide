@@ -114,9 +114,11 @@ Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na za
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
-  </i>
+
+  Poważnie, \[dokumentacja\] jest bardzo ważna. Dotychczasowa dokumentacja była świetna i była zabójczą cechą Babel. Są sekcje, które z pewnością przydałyby się trochę pracy i nawet dodanie akapitu tu czy tam jest niezwykle cenione.
+
+  _Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated._
+
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
