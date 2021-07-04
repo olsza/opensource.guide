@@ -452,9 +452,9 @@ Zanim otworzysz issue, pull request lub zadasz pytanie na czacie, pamiętaj o ty
 
 **Szanuj decyzje społeczności.** Twoje pomysły mogą różnić się od priorytetów lub wizji społeczności. Mogą oferować informacje zwrotne lub zdecydować o nie realizowaniu Twojego pomysłu. Podczas gdy powinieneś dyskutować i szukać kompromisu, opiekunowie muszą żyć z twoją decyzją dłużej niż ty. Jeśli nie zgadzasz się z ich kierunkiem, zawsze możesz pracować nad własnym widelcem lub rozpocząć własny projekt.
 
-> 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
+> 😇 _"Jestem rozczarowany, że nie możesz poprzeć mojego przypadku użycia, ale rozumiem twoje wyjaśnienie, że dotyczy to tylko niewielkiej części użytkowników. Dziękuję za wysłuchanie."_
 >
-> 😢 _"Why won't you support my use case? This is unacceptable!"_
+> 😢 _"Dlaczego nie wspierasz mojego przypadku użycia? To jest niedopuszczalne!"_
 
 **Przede wszystkim zachowaj klasę.** Open source składa się ze współpracowników z całego świata. Kontekst gubi się w różnych językach, kulturach, regionach geograficznych i strefach czasowych. Ponadto pisemna komunikacja utrudnia przekazanie tonu lub nastroju. Przyjmij dobre intencje w tych rozmowach. Dobrze jest grzecznie odepchnąć pomysł, poprosić o więcej kontekstu lub wyjaśnić swoje stanowisko. Po prostu spróbuj zostawić Internet w lepszym miejscu niż wtedy, gdy go znajdziesz.
 
