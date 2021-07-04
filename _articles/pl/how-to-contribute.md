@@ -434,9 +434,9 @@ Zanim otworzysz issue, pull request lub zadasz pytanie na czacie, pamiętaj o ty
 
 **Requesty powinny być krótkie i bezpośrednie.** Podobnie jak wysyłanie wiadomości e-mail, każdy wkład, bez względu na to, jak prosty lub pomocny, wymaga oceny innej osoby. Wiele projektów ma więcej przychodzących próśb niż ludzi dostępnych do pomocy. Bądź zwięzły. Zwiększysz szansę, że ktoś będzie mógł ci pomóc.
 
-> 😇 _"I'd like to write an API tutorial."_
+> 😇 _"Chciałbym napisać samouczek API."_
 >
-> 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
+> 😢 _"Pewnego dnia jechałem autostradą i zatrzymałem się po benzynę, a potem wpadłem na niesamowity pomysł na coś, co powinniśmy zrobić, ale zanim to wyjaśnię, pozwól, że ci pokażę..."_
 
 **Trzymaj całą komunikację publiczną.** Chociaż jest to kuszące, nie kontaktuj się prywatnie z opiekunami, chyba że musisz udostępniać poufne informacje (takie jak problem z bezpieczeństwem lub poważne naruszenie zasad postępowania). Gdy udostępnisz rozmowę publicznie, więcej osób może się uczyć i korzystać z wymiany. Dyskusje mogą być same w sobie wkładem.
 
