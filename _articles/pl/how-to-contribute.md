@@ -474,7 +474,9 @@ Jeśli chcesz wnieść znaczący wkład, otwórz problem, który chcesz zadać, 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
-  You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
+  Dużo się uczysz, kiedy "oglądasz" projekt, z którego korzystasz na GitHubie i czytasz każde wydanie i PR.
+
+  _You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR._
 <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
