@@ -410,7 +410,9 @@ Niezależnie od tego, czy jesteś jednorazowym współpracownikiem, czy próbuje
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-  \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+  \[Jako nowy współpracownik\] szybko zdałem sobie sprawę, że jeśli chcę zamknąć sprawę, muszę zadać pytania. Przejrzałem bazę kodu. Kiedy już zorientowałem się, co się dzieje, poprosiłem o więcej wskazówek. I voila! Udało mi się rozwiązać problem po uzyskaniu wszystkich potrzebnych informacji.
+
+  _\[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed._
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
