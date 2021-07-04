@@ -14,9 +14,10 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
-  </i>
+
+   Praca nad \[freenode\] pomogła mi zdobyć wiele umiejętności, które później wykorzystałem na studiach na uniwersytecie i w mojej aktualnej pracy. Myślę, że praca nad projektami open source pomaga mi tak samo, jak pomaga projektowi!
+
+   _Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!_
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
