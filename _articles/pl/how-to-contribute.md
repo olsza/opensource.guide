@@ -165,9 +165,11 @@ Nawet jeśli jesteś programistą, praca nad projektem dokumentacji może pomóc
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
-  </i>
+
+  Jeśli przejdziesz do narzędzia do śledzenia problemów i coś wydaje się zagmatwane, prawdopodobnie nie jesteś osamotniony. Narzędzia te wymagają dużej wiedzy ukrytej, ale możesz uczyć się od innych ludzi i zadawać im pytania.
+
+  _If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions._
+
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
