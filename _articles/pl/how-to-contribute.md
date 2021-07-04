@@ -428,9 +428,9 @@ Zanim otworzysz issue, pull request lub zadasz pytanie na czacie, pamiętaj o ty
 
 **Zrób swoją pracę domową wcześniej.** Nie można nic wiedzieć, ale pokazać, że próbowałeś. Zanim poprosisz o pomoc, koniecznie sprawdź README projektu, dokumentację, problemy (otwarte lub zamknięte), listę mailingową i wyszukaj w Internecie odpowiedź. Ludzie docenią, gdy pokażesz, że próbujesz się uczyć.
 
-> 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
+> 😇 _"Nie jestem pewien, jak wdrożyć X. Sprawdzam dokumentację pomocy i nie znajduję żadnych wzmianek."_
 >
-> 😢 _"How do I X?"_
+> 😢 _"Jak zrobić X?"_
 
 **Requesty powinny być krótkie i bezpośrednie.** Podobnie jak wysyłanie wiadomości e-mail, każdy wkład, bez względu na to, jak prosty lub pomocny, wymaga oceny innej osoby. Wiele projektów ma więcej przychodzących próśb niż ludzi dostępnych do pomocy. Bądź zwięzły. Zwiększysz szansę, że ktoś będzie mógł ci pomóc.
 
