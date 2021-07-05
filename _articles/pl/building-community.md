@@ -163,9 +163,11 @@ Na przykład oto jak [Rubinius](https://github.com/rubinius/rubinius/) zaczyna [
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
-  </i>
+
+  Twoi liderzy projektów będą mieli różne opinie, co powinno mieć miejsce we wszystkich zdrowych społecznościach. Trzeba jednak zadbać o to, aby nie zawsze najgłośniejszy głos zwyciężył przez zmęczenie innych ludzi, a także by mniej prominentne głosy i opinie mniejszości były słyszane.
+  
+  _Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard._
+
   <p markdown="1" class="pquote-credit">
 — @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
