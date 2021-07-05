@@ -107,7 +107,9 @@ Komunikacja publiczna może być tak prosta, jak nakłanianie ludzi do otwarcia 
 
 [Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) co drugi tydzień przeznacza godziny urzędowania, aby pomóc członkom społeczności:
 
-> Kops also has time set aside every other week to offer help and guidance to the community. Kops maintainers have agreed to set aside time specifically dedicated to working with newcomers, helping with PRs, and discussing new features.
+> Kops also has time set aside every other week to offer help and guidance to the community. Kops maintainers have agreed to set aside time specifically dedicated to working with newcomers, helping with PRs, and discussing new features. 
+  
+> (tłum.: Kops ma również czas zarezerwowany co drugi tydzień, aby zaoferować pomoc i wskazówki dla społeczności. Opiekunowie Kops zgodzili się przeznaczyć czas przeznaczony specjalnie na pracę z nowicjuszami, pomoc w PR i omawianie nowych funkcji.)
 
 Ważnymi wyjątkami od komunikacji publicznej są: 1) kwestie bezpieczeństwa i 2) poufny kodeks postępowania. Zawsze powinieneś mieć możliwość zgłaszania tych problemów prywatnie. Jeśli nie chcesz korzystać z osobistego adresu e-mail, skonfiguruj dedykowany adres e-mail.
 
