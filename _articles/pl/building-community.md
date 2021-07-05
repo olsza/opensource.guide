@@ -39,9 +39,11 @@ Zacznij od dokumentacji:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
-  </i>
+
+  Dla niektórych wkład w open source jest łatwiejszy niż dla innych. Istnieje wiele obaw przed byciem okrzykniętym za to, że nie zrobiono czegoś dobrze lub po prostu nie pasowało. (...) Dając współtwórcom miejsce do wnoszenia wkładu o bardzo niskiej biegłości technicznej (dokumentacja, przecena treści internetowych itp.) można znacznie zmniejszyć te obawy.
+
+  _Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns._
+
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
