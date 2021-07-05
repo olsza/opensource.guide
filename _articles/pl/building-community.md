@@ -251,9 +251,11 @@ W ramach procesu poszukiwania konsensusu członkowie społeczności omawiają g�
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
-  </i>
+
+  Jednym z powodów, dla których system głosowania nie istnieje w przypadku Atom Issues, jest to, że zespół Atom nie będzie przestrzegał systemu głosowania we wszystkich przypadkach. . Czasami musimy wybrać to, co uważamy za słuszne, nawet jeśli jest niepopularne. (...) Co mogę zaoferować i zobowiązujemy się zrobić ... jest to, że moja praca jest wysłuchanie społeczności.
+  
+  _Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community._
+
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
