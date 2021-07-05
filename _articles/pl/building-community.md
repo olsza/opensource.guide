@@ -157,6 +157,8 @@ Na przykład oto jak [Rubinius](https://github.com/rubinius/rubinius/) zaczyna [
 
 > We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
 
+> (tłum.: Chcemy zacząć od podziękowania za korzystanie z Rubiniusa. Ten projekt jest dziełem miłości i doceniamy wszystkich użytkowników, którzy łapią błędy, poprawiają wydajność i pomagają w dokumentacji. Każdy wkład ma znaczenie, więc dziękujemy za udział. Mając to na uwadze, oto kilka wskazówek, których przestrzeganie prosimy o przestrzeganie, abyśmy mogli skutecznie rozwiązać Twój problem.)
+
 ### Udostępnij własność swojego projektu
 
 <aside markdown="1" class="pquote">
