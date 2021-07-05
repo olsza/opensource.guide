@@ -195,9 +195,11 @@ Chociaż nie zawsze możesz znaleźć kogoś, kto odbierze połączenie, wysłan
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
-  </i>
+
+  \[W twoim\] najlepszym interesie jest rekrutowanie współpracowników, którzy lubią i którzy są w stanie robić rzeczy, którymi Ty nie jesteś. Lubisz kodować, ale nie odpowiadasz na pytania? Następnie zidentyfikuj osoby w swojej społeczności, które to robią i pozwól im to mieć.
+
+  _\[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it._
+
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
   </p>
