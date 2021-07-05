@@ -281,9 +281,11 @@ Jeśli rozmowa najwyraźniej nigdzie się nie kończy, nie ma wyraźnych działa
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.
-  </i>
+
+  Prowadzenie wątku w kierunku użyteczności bez bycia nachalnym to sztuka. Nie będzie działać po prostu upominanie ludzi, aby przestali marnować swój czas lub proszenie ich, aby nie publikowali, chyba że mają coś konstruktywnego do powiedzenia. (...) Zamiast tego musisz zasugerować warunki dalszego postępu: daj ludziom drogę, ścieżkę do naśladowania, która prowadzi do pożądanych rezultatów, ale bez brzmienia, że dyktujesz zachowanie.
+  
+  _Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct._
+
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
