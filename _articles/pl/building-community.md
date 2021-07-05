@@ -57,9 +57,11 @@ Zachęcanie innych współpracowników to także inwestycja w ciebie. Gdy umożl
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
-  </i>
+
+  Czy byłeś kiedyś na wydarzeniu (technologicznym), na którym nikogo nie znałeś, ale wszyscy inni wydawali się stać w grupach i rozmawiać jak starzy przyjaciele? (...) Teraz wyobraź sobie, że chcesz przyczynić się do projektu open source, ale nie widzisz, dlaczego i jak to się dzieje.
+
+  _Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening._
+
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
