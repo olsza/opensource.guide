@@ -125,9 +125,11 @@ Staraj się przyjąć politykę zerowej tolerancji dla tego rodzaju ludzi. Jeśl
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
-  </i>
+
+  Prawda jest taka, że kluczem jest posiadanie wspierającej społeczności. Nigdy nie byłbym w stanie wykonać tej pracy bez pomocy moich kolegów, przyjaznych nieznajomych z Internetu i rozmownych kanałów IRC. (...) Nie zadowalaj się mniej. Nie zadowalaj się dupkami.
+  
+  _The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes._
+
   <p markdown="1" class="pquote-credit">
 — @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
