@@ -221,9 +221,11 @@ Twoim zadaniem jako opiekuna jest zapobieganie eskalacji tych sytuacji. Nawet je
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
-  </i>
+
+  Jako opiekun projektu niezwykle ważne jest, aby szanować współtwórców. Często biorą to, co mówisz, bardzo osobiście.
+  
+  _As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally._
+
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
